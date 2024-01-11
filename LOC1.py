@@ -21,7 +21,7 @@ print(car)
 
 from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="geoapiExercises")
-lald = "-7.754306, 110.384712"
+lald = "-7.7818302 110.3874124"
 print("Latitude and Longitude:",lald)
 
 from geopy.geocoders import Nominatim
